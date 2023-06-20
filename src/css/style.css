@@ -118,6 +118,7 @@ a {
 
 .section-map {
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .section-map__title {
@@ -125,4 +126,16 @@ a {
   font-size: 36px;
   text-align: center;
   margin-bottom: 20px;
+}
+
+.line {
+  margin: 0 auto;
+  height: 1px;
+  background-color: #999999;
+  width: 1024px;
+  margin-bottom: 20px;
+}
+
+footer {
+  height: 80px;
 }
